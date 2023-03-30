@@ -1,0 +1,7 @@
+C1001,Donald Williams,2 Wealth Ave Seaside,26,2394568,Teacher,3
+C1002,Joe Black,2 Weath Ave Seaside,32,2394546,Teacher,2
+C1003,Mark Jones,67 Wincester Ave,53,8756432,Barber,10
+C1004,Mark John,Papine,56,4567895,Teacher,3
+C1005,John Brown,Manchester,45,2345678,Doctor,3
+C1005,Jane Doe,Papine,34,2345678,Teacher,10
+C1006,Pam Johnson,Papine,69,2345678,Nurse,10

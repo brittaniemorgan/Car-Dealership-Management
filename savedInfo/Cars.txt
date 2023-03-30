@@ -1,0 +1,10 @@
+1 Toyota RAV4 2014 Used 5 20000
+4 Nissan Lafesta 2015 Used 3 13000
+5 Suzuki Swift 2012 Used 2 9000
+6 Suzuki Vitara 2020 New 4 24000
+8 Toyota Corolla 2009 Used 10 5000
+7 Audi Q7 2022 New 4 34000
+2 Honda Accord 2010 Used 4 16000
+9 BMW X6 2022 New 11 40000
+3 Toyota MarkX 2016 New 0 19000
+10 Honda Civic 2017 New 0 18500
